@@ -51,3 +51,4 @@ jobs:
       fail-fast: true
     uses: ./.github/workflows/build-nothing-phone-1-pixelos-a16.yml
     secrets: inherit
+    
